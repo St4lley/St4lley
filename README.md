@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&reversal=true&height=200&color=timeGradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=30&pause=1000&color=35AEA1&center=true&width=800&height=100&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+Bret.+;Mas+pode+me+chamar+de+.+.+.+;Stalley!+;Bem-vindo+ao+meu+GitHub.)](https://git.io/typing-svg)
       
-<div align="center">  
-<img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliaszlsp&show_icons=true&theme=tokyonight" />
-<img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliaszlsp&show_icons=true&theme=tokyonight&layout=compact" />
+<div align="center"> 
+<img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=st4lley&show_icons=true&theme=tokyonight"/>
+<img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4lley&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
 
 ### Entre em contato comigo! 📭
 
 <div>
-<a href="https://instagram.com/elias_lopessp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eliaslopes1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/lucastalley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-moura-214815187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 - 🔭 I’m currently working on ...
