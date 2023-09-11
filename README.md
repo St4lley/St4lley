@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?text=Bem-vindo!&animation=twinkling&type=waving&reversal=true&height=200&color=timeGradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=30&pause=1000&color=35AEA1&center=true&width=800&height=100&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+Bret.+;Mas+pode+me+chamar+de+.+.+.+;Stalley!+)](https://git.io/typing-svg)
 
+<div>
+<a href="https://github.com/St4lley">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4lley&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=St4lley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ### Entre em contato comigo! 📭
 
